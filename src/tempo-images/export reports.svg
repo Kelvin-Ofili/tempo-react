@@ -1,0 +1,293 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="732" height="489" viewBox="0 0 732 489">
+  <defs>
+    <path id="export-reports-a" d="M22.5223817,208.379356 C66.9333233,352.773183 194.029479,460.245977 355.854979,461 L355.854979,461 C517.6776,461.747323 707.295215,336.223863 708,185.171767 L708,185.171767 C708.622763,50.1656668 571.95732,51.4167886 427.375544,52.6707864 L427.375544,52.6707864 C410.195173,52.8203458 392.902493,52.967029 375.716363,52.8864971 L375.716363,52.8864971 C290.920319,52.4953418 168.728316,0 86.958851,0 L86.958851,0 C12.6737615,0 -28.2498471,43.3204491 22.5223817,208.379356"/>
+    <rect id="export-reports-d" width="512" height="384" x="106" y="101" rx="12"/>
+    <filter id="export-reports-c" width="166.4%" height="199%" x="-33.2%" y="-28.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="100" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="40"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0"/>
+      <feOffset dy="40" in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="16"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0"/>
+      <feOffset dy="20" in="SourceAlpha" result="shadowOffsetOuter3"/>
+      <feGaussianBlur in="shadowOffsetOuter3" result="shadowBlurOuter3" stdDeviation="10"/>
+      <feColorMatrix in="shadowBlurOuter3" result="shadowMatrixOuter3" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0"/>
+      <feOffset dy="12" in="SourceAlpha" result="shadowOffsetOuter4"/>
+      <feGaussianBlur in="shadowOffsetOuter4" result="shadowBlurOuter4" stdDeviation="5"/>
+      <feColorMatrix in="shadowBlurOuter4" result="shadowMatrixOuter4" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0352941176 0"/>
+      <feOffset dy="8" in="SourceAlpha" result="shadowOffsetOuter5"/>
+      <feGaussianBlur in="shadowOffsetOuter5" result="shadowBlurOuter5" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter5" result="shadowMatrixOuter5" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.02 0"/>
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter6"/>
+      <feGaussianBlur in="shadowOffsetOuter6" result="shadowBlurOuter6" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter6" result="shadowMatrixOuter6" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0"/>
+      <feOffset dy="-4" in="SourceAlpha" result="shadowOffsetOuter7"/>
+      <feGaussianBlur in="shadowOffsetOuter7" result="shadowBlurOuter7" stdDeviation="8"/>
+      <feColorMatrix in="shadowBlurOuter7" result="shadowMatrixOuter7" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+        <feMergeNode in="shadowMatrixOuter3"/>
+        <feMergeNode in="shadowMatrixOuter4"/>
+        <feMergeNode in="shadowMatrixOuter5"/>
+        <feMergeNode in="shadowMatrixOuter6"/>
+        <feMergeNode in="shadowMatrixOuter7"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="export-reports-e" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-opacity=".04"/>
+      <stop offset="100%" stop-opacity="0"/>
+    </linearGradient>
+    <path id="export-reports-g" d="M30.6399567,7.58243448 L30.6399567,0 L4.77884646,0 C3.65088381,0 2.72727273,0.958085634 2.72727273,2.12815043 L2.72727273,47.8721839 C2.72727273,49.0420815 3.65088381,50 4.77884646,50 L37.9484263,50 C39.0763889,50 40,49.0420815 40,47.8721839 L40,9.71041774 L32.6913693,9.71041774 C31.5634067,9.71041774 30.6399567,8.75350234 30.6399567,7.58243448"/>
+    <filter id="export-reports-f" width="261%" height="220%" x="-80.5%" y="-36%" filterUnits="objectBoundingBox">
+      <feOffset dy="12" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.160784314 0"/>
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.02 0"/>
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter3"/>
+      <feGaussianBlur in="shadowOffsetOuter3" result="shadowBlurOuter3" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter3" result="shadowMatrixOuter3" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0"/>
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter4"/>
+      <feGaussianBlur in="shadowOffsetOuter4" result="shadowBlurOuter4" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter4" result="shadowMatrixOuter4" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+        <feMergeNode in="shadowMatrixOuter3"/>
+        <feMergeNode in="shadowMatrixOuter4"/>
+      </feMerge>
+    </filter>
+    <path id="export-reports-i" d="M30.6399567,7.58243448 L30.6399567,0 L4.77884646,0 C3.65088381,0 2.72727273,0.958085634 2.72727273,2.12815043 L2.72727273,47.8721839 C2.72727273,49.0420815 3.65088381,50 4.77884646,50 L37.9484263,50 C39.0763889,50 40,49.0420815 40,47.8721839 L40,9.71041774 L32.6913693,9.71041774 C31.5634067,9.71041774 30.6399567,8.75350234 30.6399567,7.58243448"/>
+    <filter id="export-reports-h" width="261%" height="220%" x="-80.5%" y="-36%" filterUnits="objectBoundingBox">
+      <feOffset dy="12" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.160784314 0"/>
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.02 0"/>
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter3"/>
+      <feGaussianBlur in="shadowOffsetOuter3" result="shadowBlurOuter3" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter3" result="shadowMatrixOuter3" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0"/>
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter4"/>
+      <feGaussianBlur in="shadowOffsetOuter4" result="shadowBlurOuter4" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter4" result="shadowMatrixOuter4" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+        <feMergeNode in="shadowMatrixOuter3"/>
+        <feMergeNode in="shadowMatrixOuter4"/>
+      </feMerge>
+    </filter>
+    <path id="export-reports-k" d="M30.6399567,7.58243448 L30.6399567,0 L4.77884646,0 C3.65088381,0 2.72727273,0.958085634 2.72727273,2.12815043 L2.72727273,47.8721839 C2.72727273,49.0420815 3.65088381,50 4.77884646,50 L37.9484263,50 C39.0763889,50 40,49.0420815 40,47.8721839 L40,9.71041774 L32.6913693,9.71041774 C31.5634067,9.71041774 30.6399567,8.75350234 30.6399567,7.58243448"/>
+    <filter id="export-reports-j" width="261%" height="220%" x="-80.5%" y="-36%" filterUnits="objectBoundingBox">
+      <feOffset dy="12" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.160784314 0"/>
+      <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="2"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.02 0"/>
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter3"/>
+      <feGaussianBlur in="shadowOffsetOuter3" result="shadowBlurOuter3" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter3" result="shadowMatrixOuter3" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0"/>
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter4"/>
+      <feGaussianBlur in="shadowOffsetOuter4" result="shadowBlurOuter4" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter4" result="shadowMatrixOuter4" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+        <feMergeNode in="shadowMatrixOuter3"/>
+        <feMergeNode in="shadowMatrixOuter4"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="export-reports-b" fill="#fff">
+      <use xlink:href="#export-reports-a"/>
+    </mask>
+    <use fill="#FBFCFD" xlink:href="#export-reports-a"/>
+    <g mask="url(#export-reports-b)">
+      <use fill="#000" filter="url(#export-reports-c)" xlink:href="#export-reports-d"/>
+      <use fill="#FFF" xlink:href="#export-reports-d"/>
+    </g>
+    <g mask="url(#export-reports-b)">
+      <g transform="translate(138 166)">
+        <rect width="480" height="148" fill="#EEF3F8"/>
+        <g fill-opacity=".8" transform="translate(112 59)">
+          <g stroke="#EEF3F8" stroke-width=".5">
+            <path fill="#B173C7" d="M309.234043,0 L342,0 C343.104569,-2.02906125e-16 344,0.8954305 344,2 L344,14 C344,15.1045695 343.104569,16 342,16 L309.234043,16 L309.234043,16 L309.234043,0 Z"/>
+            <rect width="68.617" height="16" x="240.617" fill="#FFB100"/>
+            <rect width="68.617" height="16" x="172" fill="#5CCB3C"/>
+            <path fill="#0097E6" d="M2,0 L172,0 L172,0 L172,16 L2,16 C0.8954305,16 1.3527075e-16,15.1045695 0,14 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z"/>
+          </g>
+          <g stroke="#EEF3F8" stroke-width=".5" transform="translate(0 40)">
+            <path fill="#B173C7" d="M296.171123,0 L342,0 C343.104569,-2.02906125e-16 344,0.8954305 344,2 L344,14 C344,15.1045695 343.104569,16 342,16 L296.171123,16 L296.171123,16 L296.171123,0 Z"/>
+            <rect width="58.866" height="16" x="237.305" fill="#FFB100"/>
+            <rect width="120.492" height="16" x="116.813" fill="#5CCB3C"/>
+            <path fill="#0097E6" d="M2,0 L116.812834,0 L116.812834,0 L116.812834,16 L2,16 C0.8954305,16 1.3527075e-16,15.1045695 0,14 L0,2 C-3.57315355e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z"/>
+          </g>
+        </g>
+        <g transform="translate(26 58)">
+          <rect width="10" height="10" fill="#0097E6" rx="5"/>
+          <rect width="10" height="10" y="16" fill="#71DD4C" rx="5"/>
+          <rect width="10" height="10" y="32" fill="#FFB100" rx="5"/>
+          <rect width="10" height="10" y="48" fill="#9657AB" rx="5"/>
+          <rect width="32" height="4" x="18" y="3" fill="#BCD8E0" rx="2"/>
+          <rect width="32" height="4" x="18" y="19" fill="#BCD8E0" rx="2"/>
+          <rect width="32" height="4" x="18" y="51" fill="#BCD8E0" rx="2"/>
+          <rect width="32" height="4" x="18" y="35" fill="#BCD8E0" rx="2"/>
+        </g>
+        <rect width="64" height="4" x="26" y="19" fill="#BCD8E0" rx="2"/>
+        <rect width="430" height="2" x="26" y="40" fill="#DDE8F1" rx="1"/>
+        <rect width="64" height="4" x="130" y="19" fill="#BCD8E0" rx="2"/>
+        <rect width="64" height="4" x="234" y="19" fill="#BCD8E0" rx="2"/>
+        <rect width="64" height="4" x="338" y="19" fill="#BCD8E0" rx="2"/>
+      </g>
+    </g>
+    <g mask="url(#export-reports-b)">
+      <g transform="translate(138 101)">
+        <path fill="#FFF" d="M0,0 L468,0 C474.627417,-1.21743675e-15 480,5.372583 480,12 L480,40 L480,40 L0,40 L0,0 Z"/>
+        <rect width="464" height="1" x="8" y="39" fill="#DDE8F1"/>
+        <g transform="translate(11 8)">
+          <path fill="#00C3F2" d="M12,24 C18.627417,24 24,18.627417 24,12 C24,5.372583 18.627417,0 12,0 C5.372583,0 0,5.372583 0,12 C0,18.627417 5.372583,24 12,24 Z"/>
+          <circle cx="15" cy="12" r="4" fill="#FFF" stroke="#00C3F2" stroke-width=".5"/>
+          <circle cx="9.5" cy="12" r="4" fill="#FFF" stroke="#00C3F2" stroke-width=".5"/>
+        </g>
+      </g>
+    </g>
+    <g mask="url(#export-reports-b)">
+      <g transform="translate(138 141)">
+        <rect width="480" height="4" y="24" fill="url(#export-reports-e)"/>
+        <rect width="480" height="24" fill="#FFF"/>
+      </g>
+    </g>
+    <g mask="url(#export-reports-b)">
+      <g transform="translate(106 101)">
+        <path fill="#F5F8FA" d="M12,0 L32,0 L32,0 L32,384 L12,384 C5.372583,384 8.11624501e-16,378.627417 0,372 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z"/>
+        <rect width="1" height="384" x="32" fill="#DDE8F1"/>
+        <g transform="translate(6.154 10)">
+          <path fill="#F89B46" d="M19.6923077,9.84089077 C19.6923077,15.2816781 15.2874068,19.6923077 9.85368625,19.6923077 C9.7171121,19.6923077 9.5811879,19.6895213 9.44596726,19.6840022 L8.5,18.0430584 C8.94052291,18.1154023 9.3927168,18.1530238 9.85368625,18.1530238 C14.438388,18.1530238 18.1550231,14.4315551 18.1550231,9.84089077 C18.1550231,9.14279129 18.0690755,8.46479204 17.9071978,7.81692338 L18.9326687,6.03846154 C19.4219864,7.20845772 19.6923077,8.49306473 19.6923077,9.84089077 Z"/>
+          <path fill="#00C3F2" d="M1.53817306,9.84268004 C1.53817306,13.6786449 4.14110445,16.9069682 7.67791321,17.8594346 L8.69230769,19.6153846 C3.79825674,19.0452372 0,14.8873009 0,9.84268004 C0,7.92202475 0.550587201,6.12990137 1.50261191,4.61538462 L3.39102798,4.61538462 C2.23242739,6.04258533 1.53817306,7.86159754 1.53817306,9.84268004 Z"/>
+          <path fill="#00B47E" d="M9.84641467,0 C13.6699385,0 16.9844314,2.17382004 18.6153846,5.34996966 L17.6602658,7 C16.5033659,3.81231953 13.4415831,1.53449283 9.84641467,1.53449283 C7.53804683,1.53449283 5.44957271,2.47355041 3.94403052,3.98956033 L1.92307692,3.98957504 C3.71637199,1.56940111 6.5976445,0 9.84641467,0 Z"/>
+          <path fill="#004976" d="M8.46802863,13.6473221 L5.19898227,10.3891779 C5.13880078,10.3291971 5.13880078,10.231949 5.19898227,10.1719683 L6.72453723,8.65150096 C6.78471872,8.59152018 6.88229218,8.59152018 6.94247366,8.65150096 L8.57699684,10.2805731 L12.8267571,6.04498558 C12.8869386,5.98500481 12.9845121,5.98500481 13.0446935,6.04498558 L14.5702485,7.56545289 C14.63043,7.62543367 14.63043,7.72268173 14.5702485,7.7826625 L8.68596505,13.6473221 C8.62578357,13.7073029 8.52821011,13.7073029 8.46802863,13.6473221 Z"/>
+        </g>
+      </g>
+    </g>
+    <g mask="url(#export-reports-b)">
+      <g transform="translate(198 402)">
+        <rect width="360" height="22.737" fill="#FFF"/>
+        <rect width="360" height="1" y="23" fill="#BCD8E0"/>
+        <rect width="18" height="2" x="334" y="10.368" fill="#BCD8E0" rx="1"/>
+        <g transform="translate(200 9.368)">
+          <rect width="47" height="4" fill="#F3D041" rx="2"/>
+          <rect width="33.571" height="4" fill="#004976" rx="2"/>
+        </g>
+        <rect width="18" height="2" x="170" y="10.368" fill="#BCD8E0" rx="1"/>
+        <rect width="18" height="2" x="128" y="10.368" fill="#BCD8E0" rx="1"/>
+        <rect width="40" height="2" x="20" y="10.368" fill="#BCD8E0" rx="1"/>
+        <rect width="8" height="8" x="8" y="7.368" fill="#00B2F5" rx="2"/>
+      </g>
+    </g>
+    <g mask="url(#export-reports-b)">
+      <g transform="translate(198 426)">
+        <rect width="360" height="22.737" fill="#FFF"/>
+        <rect width="18" height="2" x="334" y="10.368" fill="#A7C7D1" rx="1"/>
+        <rect width="18" height="2" x="170" y="10.368" fill="#A7C7D1" rx="1"/>
+        <rect width="18" height="2" x="128" y="10.368" fill="#A7C7D1" rx="1"/>
+        <rect width="40" height="2" x="8" y="10.368" fill="#A7C7D1" rx="1"/>
+      </g>
+    </g>
+    <g mask="url(#export-reports-b)">
+      <g transform="translate(198 378)">
+        <rect width="360" height="22.737" fill="#FFF"/>
+        <rect width="360" height="1" y="23" fill="#DDE8F1"/>
+        <rect width="18" height="2" x="334" y="10.368" fill="#BCD8E0" rx="1"/>
+        <g transform="translate(200 9.368)">
+          <rect width="80" height="4" fill="#DDE8F1" rx="2"/>
+          <rect width="57.143" height="4" fill="#004976" rx="2"/>
+        </g>
+        <rect width="18" height="2" x="170" y="10.368" fill="#BCD8E0" rx="1"/>
+        <rect width="18" height="2" x="128" y="10.368" fill="#BCD8E0" rx="1"/>
+        <rect width="40" height="2" x="20" y="10.368" fill="#BCD8E0" rx="1"/>
+        <rect width="8" height="8" x="8" y="7.368" fill="#00B47E" rx="2"/>
+      </g>
+    </g>
+    <g mask="url(#export-reports-b)">
+      <g transform="translate(198 354)">
+        <rect width="360" height="22.737" fill="#FFF"/>
+        <rect width="360" height="1" y="23" fill="#DDE8F1"/>
+        <rect width="18" height="2" x="334" y="10.368" fill="#BCD8E0" rx="1"/>
+        <g transform="translate(200 9.368)">
+          <rect width="112" height="4" fill="#F3D041" rx="2"/>
+          <rect width="65" height="4" fill="#004976" rx="2"/>
+        </g>
+        <rect width="18" height="2" x="170" y="10.368" fill="#BCD8E0" rx="1"/>
+        <rect width="18" height="2" x="128" y="10.368" fill="#BCD8E0" rx="1"/>
+        <rect width="40" height="2" x="20" y="10.368" fill="#BCD8E0" rx="1"/>
+        <rect width="8" height="8" x="8" y="7.368" fill="#E9636F" rx="2"/>
+      </g>
+    </g>
+    <g mask="url(#export-reports-b)">
+      <g transform="translate(198 330)">
+        <rect width="360" height="22.737" fill="#FFF"/>
+        <rect width="360" height="1" y="23" fill="#DDE8F1"/>
+        <rect width="18" height="2" x="334" y="10.368" fill="#BCD8E0" rx="1"/>
+        <g transform="translate(200 9.368)">
+          <rect width="112" height="4" fill="#DDE8F1" rx="2"/>
+          <rect width="80" height="4" fill="#004976" rx="2"/>
+        </g>
+        <rect width="18" height="2" x="170" y="10.368" fill="#BCD8E0" rx="1"/>
+        <rect width="18" height="2" x="128" y="10.368" fill="#BCD8E0" rx="1"/>
+        <rect width="40" height="2" x="20" y="10.368" fill="#BCD8E0" rx="1"/>
+        <rect width="8" height="8" x="8" y="7.368" fill="#B572D2" fill-rule="nonzero" rx="2"/>
+      </g>
+    </g>
+    <g transform="translate(547 325)">
+      <line x1="20" x2="87" y1="58" y2="28" stroke="#0093C9" stroke-width="2"/>
+      <line x1="20" x2="101" y1="58" y2="118" stroke="#0093C9" stroke-width="2"/>
+      <line x1="36" x2="143" y1="62" y2="63" stroke="#0093C9" stroke-width="2"/>
+      <g transform="translate(63)">
+        <path fill="#E0E0E0" d="M30.9090909,7.09868766 C30.9090909,8.19504331 31.8059884,9.09090909 32.9015182,9.09090909 L40,9.09090909 L30.9090909,4.13891144e-13 L30.9090909,7.09868766 Z"/>
+        <use fill="#000" filter="url(#export-reports-f)" xlink:href="#export-reports-g"/>
+        <use fill="#FFF" xlink:href="#export-reports-g"/>
+        <polygon fill="#00B57D" points="0 20 28.182 20 28.182 7.273 0 7.273"/>
+        <polygon fill="#008F4F" points="0 20 2.727 22.727 2.727 20"/>
+        <polygon fill="#DBDBDB" points="7.273 29.091 32.727 29.091 32.727 27.273 7.273 27.273"/>
+        <polygon fill="#DBDBDB" points="7.273 33.636 32.727 33.636 32.727 31.818 7.273 31.818"/>
+        <polygon fill="#DBDBDB" points="7.273 38.182 32.727 38.182 32.727 36.364 7.273 36.364"/>
+        <polygon fill="#DBDBDB" points="7.273 42.818 32.727 42.818 32.727 41 7.273 41"/>
+        <path fill="#FFF" fill-rule="nonzero" d="M8.494,17 L10.006,14.804 L11.509,17 L13.039,17 L10.861,13.913 L12.904,10.997 L11.365,10.997 L10.006,13.049 L8.629,10.997 L7.108,10.997 L9.151,13.922 L6.973,17 L8.494,17 Z M17.737,17 L17.737,15.875 L15.199,15.875 L15.199,10.997 L13.921,10.997 L13.921,17 L17.737,17 Z M21.076,17.108 C22.696,17.108 23.479,16.28 23.479,15.182 C23.479,13.85 22.219,13.553 21.229,13.328 C20.536,13.166 20.032,13.04 20.032,12.635 C20.032,12.275 20.338,12.023 20.914,12.023 C21.499,12.023 22.147,12.23 22.633,12.68 L23.344,11.744 C22.75,11.195 21.958,10.907 21.004,10.907 C19.591,10.907 18.727,11.717 18.727,12.716 C18.727,14.057 19.987,14.327 20.968,14.552 C21.661,14.714 22.183,14.867 22.183,15.317 C22.183,15.659 21.841,15.992 21.139,15.992 C20.311,15.992 19.654,15.623 19.231,15.182 L18.529,16.154 C19.096,16.721 19.924,17.108 21.076,17.108 Z"/>
+      </g>
+      <g transform="translate(129 33)">
+        <path fill="#E0E0E0" d="M30.9090909,7.09868766 C30.9090909,8.19504331 31.8059884,9.09090909 32.9015182,9.09090909 L40,9.09090909 L30.9090909,4.13891144e-13 L30.9090909,7.09868766 Z"/>
+        <use fill="#000" filter="url(#export-reports-h)" xlink:href="#export-reports-i"/>
+        <use fill="#FFF" xlink:href="#export-reports-i"/>
+        <polygon fill="#0095E0" points="0 20 28.182 20 28.182 7.273 0 7.273"/>
+        <polygon fill="#0056B8" points="0 20 2.727 22.727 2.727 20"/>
+        <polygon fill="#DBDBDB" points="7.273 29.091 32.727 29.091 32.727 27.273 7.273 27.273"/>
+        <polygon fill="#DBDBDB" points="7.273 33.636 32.727 33.636 32.727 31.818 7.273 31.818"/>
+        <polygon fill="#DBDBDB" points="7.273 38.182 32.727 38.182 32.727 36.364 7.273 36.364"/>
+        <polygon fill="#DBDBDB" points="7.273 42.818 32.727 42.818 32.727 41 7.273 41"/>
+        <path fill="#FFF" fill-rule="nonzero" d="M9.456,17.108 C10.824,17.108 11.58,16.379 12.012,15.632 L10.914,15.101 C10.662,15.596 10.122,15.974 9.456,15.974 C8.412,15.974 7.62,15.137 7.62,14.003 C7.62,12.869 8.412,12.032 9.456,12.032 C10.122,12.032 10.662,12.419 10.914,12.905 L12.012,12.365 C11.589,11.618 10.824,10.898 9.456,10.898 C7.701,10.898 6.306,12.158 6.306,14.003 C6.306,15.848 7.701,17.108 9.456,17.108 Z M15.225,17.108 C16.845,17.108 17.628,16.28 17.628,15.182 C17.628,13.85 16.368,13.553 15.378,13.328 C14.685,13.166 14.181,13.04 14.181,12.635 C14.181,12.275 14.487,12.023 15.063,12.023 C15.648,12.023 16.296,12.23 16.782,12.68 L17.493,11.744 C16.899,11.195 16.107,10.907 15.153,10.907 C13.74,10.907 12.876,11.717 12.876,12.716 C12.876,14.057 14.136,14.327 15.117,14.552 C15.81,14.714 16.332,14.867 16.332,15.317 C16.332,15.659 15.99,15.992 15.288,15.992 C14.46,15.992 13.803,15.623 13.38,15.182 L12.678,16.154 C13.245,16.721 14.073,17.108 15.225,17.108 Z M22.092,17 L24.405,10.997 L22.947,10.997 L21.291,15.614 L19.626,10.997 L18.168,10.997 L20.49,17 L22.092,17 Z"/>
+      </g>
+      <g transform="translate(78 86)">
+        <path fill="#E0E0E0" d="M30.9090909,8.09868766 C30.9090909,9.19504331 31.8059884,10.0909091 32.9015182,10.0909091 L40,10.0909091 L30.9090909,1 L30.9090909,8.09868766 Z"/>
+        <use fill="#000" filter="url(#export-reports-j)" xlink:href="#export-reports-k"/>
+        <use fill="#FFF" xlink:href="#export-reports-k"/>
+        <polygon fill="#F4364C" points="0 20 28.182 20 28.182 7.273 0 7.273"/>
+        <polygon fill="#EB0937" points="0 20 2.727 22.727 2.727 20"/>
+        <polygon fill="#DBDBDB" points="7.273 29.091 32.727 29.091 32.727 27.273 7.273 27.273"/>
+        <polygon fill="#DBDBDB" points="7.273 33.636 32.727 33.636 32.727 31.818 7.273 31.818"/>
+        <polygon fill="#DBDBDB" points="7.273 38.182 32.727 38.182 32.727 36.364 7.273 36.364"/>
+        <polygon fill="#DBDBDB" points="7.273 42.818 32.727 42.818 32.727 41 7.273 41"/>
+        <path fill="#FFF" fill-rule="nonzero" d="M6.872,16 L6.872,13.849 L8.402,13.849 C9.698,13.849 10.418,12.976 10.418,11.932 C10.418,10.879 9.707,9.997 8.402,9.997 L5.594,9.997 L5.594,16 L6.872,16 Z M8.231,12.751 L6.872,12.751 L6.872,11.095 L8.231,11.095 C8.735,11.095 9.113,11.428 9.113,11.923 C9.113,12.427 8.735,12.751 8.231,12.751 Z M13.892,16 C15.773,16 17.078,14.812 17.078,13.003 C17.078,11.194 15.773,9.997 13.892,9.997 L11.525,9.997 L11.525,16 L13.892,16 Z M13.892,14.875 L12.803,14.875 L12.803,11.122 L13.892,11.122 C15.125,11.122 15.773,11.941 15.773,13.003 C15.773,14.02 15.08,14.875 13.892,14.875 Z M19.58,16 L19.58,13.498 L22.487,13.498 L22.487,12.4 L19.58,12.4 L19.58,11.095 L22.55,11.095 L22.55,9.997 L18.302,9.997 L18.302,16 L19.58,16 Z"/>
+      </g>
+      <circle cx="20" cy="20" r="20" fill="#0073A9" transform="translate(0 38)"/>
+      <g fill="#FFF" transform="translate(4 42)">
+        <path fill-rule="nonzero" d="M32.0625,16 C32.0625,24.836556 24.899056,32 16.0625,32 C15.8899634,32 15.7180646,31.997269 15.5468445,31.9918479 L13.6946996,28.7848807 C14.4624734,28.9261691 15.2538646,29 16.0625,29 C23.2422017,29 29.0625,23.1797017 29.0625,16 C29.0625,15.2914173 29.0058091,14.5960755 28.8967154,13.9182628 L31.0043822,10.2660457 C31.68791,12.0461054 32.0625,13.9793076 32.0625,16 Z M3.0625,16 C3.0625,21.6279962 6.63885014,26.4206912 11.6429079,28.2294422 L13.7209687,31.8298838 C5.99438406,30.696844 0.0625,24.0411549 0.0625,16 C0.0625,12.8769086 0.957298363,9.96280863 2.5045113,7.50008377 L6.22572707,7.50038901 C4.25477132,9.77939819 3.0625,12.7504642 3.0625,16 Z M16.0625,0 C22.2227774,0 27.5699258,3.48141937 30.243785,8.58409806 L28.3757644,11.8196348 C26.6350464,6.69072274 21.7797804,3 16.0625,3 C12.9038025,3 10.0082237,4.12654489 7.75562641,5.99977178 L3.571148,6.00076111 C6.50337514,2.34247496 11.0093804,0 16.0625,0 Z"/>
+        <path d="M11.4692228,14.1987597 L13.978571,16.7083804 C14.0207974,16.7507163 14.0879821,16.7529668 14.1329088,16.7151627 L14.1401824,16.7083804 L14.1401824,16.7083804 L20.6557772,10.1920783 C20.7419504,10.1056815 20.8800943,10.1027553 20.9698877,10.1832339 L20.9790001,10.1918568 C20.979037,10.1918937 20.979074,10.1919306 20.9790001,10.1920783 L23.245674,12.4589983 C23.3347753,12.548331 23.3347753,12.6929235 23.245674,12.7822562 L14.2209881,21.8079217 C14.1348149,21.8943185 13.996671,21.8972447 13.9068777,21.8167661 L13.8977653,21.8081432 C13.8977283,21.8081063 13.8976914,21.8080694 13.8977653,21.8079217 L8.879326,16.7889377 C8.79022467,16.699605 8.79022467,16.5550125 8.879326,16.4656798 L11.1459999,14.1987597 C11.2321731,14.112363 11.3703171,14.1094368 11.4601104,14.1899154 L11.4692228,14.1985383 C11.4692597,14.1985752 11.4692967,14.1986121 11.4692228,14.1987597 Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
